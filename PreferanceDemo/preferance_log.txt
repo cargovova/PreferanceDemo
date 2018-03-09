@@ -1,0 +1,51 @@
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: Welcome to Preferance
+
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: First Player: 
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: SPADE - QUEEN
+CLUB - NINE
+HEART - NINE
+CLUB - ACE
+CLUB - TEN
+CLUB - EIGHT
+SPADE - EIGHT
+SPADE - SEVEN
+DIAMOND - NINE
+SPADE - NINE
+
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: Second Player: 
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: DIAMOND - SEVEN
+CLUB - KING
+DIAMOND - QUEEN
+DIAMOND - JACK
+SPADE - TEN
+HEART - EIGHT
+SPADE - KING
+HEART - TEN
+DIAMOND - EIGHT
+DIAMOND - TEN
+
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: Third Player: 
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: HEART - KING
+CLUB - SEVEN
+CLUB - JACK
+HEART - ACE
+DIAMOND - ACE
+CLUB - QUEEN
+HEART - QUEEN
+HEART - SEVEN
+SPADE - ACE
+SPADE - JACK
+
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: Cards on deck: 
+мар 09, 2018 1:18:50 PM com.mygame.preferance.demo.Preferance main
+INFO: HEART - JACK
+DIAMOND - KING
+
